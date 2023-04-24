@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted access"
+AuthUserFile D:\xampp\htdocs\enterance/.htpasswd
+Require valid-user
